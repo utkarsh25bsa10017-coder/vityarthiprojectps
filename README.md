@@ -1,3 +1,19 @@
+To set up and run this Python calculator code, you need a computer with Python installed and a way to write and execute Python scripts.
+
+Here are the step-by-step instructions:
+
+Step 1: Install Python (If needed)
+If you don't already have Python installed, you'll need to install it.
+
+Step 2: Create the Python File
+Open a Text Editor: Open a simple text editor (like Notepad on Windows, TextEdit on macOS, VS Code, or Sublime Text).
+
+step 3:Now execute the code
+
+
+
+Now we are going to look at the working of this code
+
 1. The Functions (Core Math)
 def add(x, y): Returns the sum of x and y.
 def subtract(x, y): Returns the difference of x and y.
